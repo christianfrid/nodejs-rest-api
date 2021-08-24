@@ -1,4 +1,9 @@
 # NodeJS REST API
+This is me trying to learn some NodeJS.
+
+## Requirements
+- [NodeJS](https://nodejs.org/en/download/)
+- [Docker](https://www.docker.com/products/docker-desktop)
 
 ## Build image, set up network and open ports
 ```bash
